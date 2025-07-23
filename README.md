@@ -1,1 +1,0 @@
-# selenium-allo-ui-autotests
